@@ -2,3 +2,5 @@ Alicia
 Ligne en plus
 >>>>>>> ae9003873317b6072e699bb81baed2a2f2ce0c94
 
+Nouvelle ligne partie 3
+(je voulais dire partie 8)
